@@ -1,7 +1,6 @@
 # 2022-5-23 ButtonStyle-TrumpX
 效果展示
-
-<img src="D:\OneDrive\mdimg\17点13分 2022年4月10日-16533091850541.gif" alt="17点13分 2022年4月10日" style="zoom: 50%;" />
+![17点13分 2022年4月10日](src="https://user-images.githubusercontent.com/67289897/169820805-1720819c-e1c6-481c-aaa7-3b7f01c4c39c.gif" style="zoom: 50%;")
 
 B站地址
 
