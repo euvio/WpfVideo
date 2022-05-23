@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\ButtonStyle-TrumpX\ButtonStyle-TrumpX\bin\Debug\ButtonStyle-TrumpX.exe.config
+C:\Users\Administrator\source\repos\ButtonStyle-TrumpX\ButtonStyle-TrumpX\bin\Debug\ButtonStyle-TrumpX.exe
+C:\Users\Administrator\source\repos\ButtonStyle-TrumpX\ButtonStyle-TrumpX\bin\Debug\ButtonStyle-TrumpX.pdb
+C:\Users\Administrator\source\repos\ButtonStyle-TrumpX\ButtonStyle-TrumpX\obj\Debug\ButtonStyle-TrumpX.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ButtonStyle-TrumpX\ButtonStyle-TrumpX\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\ButtonStyle-TrumpX\ButtonStyle-TrumpX\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\ButtonStyle-TrumpX\ButtonStyle-TrumpX\obj\Debug\ButtonStyle-TrumpX_MarkupCompile.cache
+C:\Users\Administrator\source\repos\ButtonStyle-TrumpX\ButtonStyle-TrumpX\obj\Debug\ButtonStyle-TrumpX_MarkupCompile.lref
+C:\Users\Administrator\source\repos\ButtonStyle-TrumpX\ButtonStyle-TrumpX\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\ButtonStyle-TrumpX\ButtonStyle-TrumpX\obj\Debug\ButtonStyle-TrumpX.g.resources
+C:\Users\Administrator\source\repos\ButtonStyle-TrumpX\ButtonStyle-TrumpX\obj\Debug\ButtonStyle_TrumpX.Properties.Resources.resources
+C:\Users\Administrator\source\repos\ButtonStyle-TrumpX\ButtonStyle-TrumpX\obj\Debug\ButtonStyle-TrumpX.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\ButtonStyle-TrumpX\ButtonStyle-TrumpX\obj\Debug\ButtonStyle-TrumpX.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ButtonStyle-TrumpX\ButtonStyle-TrumpX\obj\Debug\ButtonStyle-TrumpX.exe
+C:\Users\Administrator\source\repos\ButtonStyle-TrumpX\ButtonStyle-TrumpX\obj\Debug\ButtonStyle-TrumpX.pdb
